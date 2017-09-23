@@ -1,0 +1,258 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+} 
+#wrapper{
+    width: 970px;
+    
+}
+#logo {
+    width: 320px;
+    height: 70px;
+}
+ #logoimg img{
+    width: 83px;
+  
+}
+.logotxt {
+    color:#474747;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    font-size: 43px;
+   margin-top: 20px;
+  vertical-align: top;
+}
+.logotxt span{
+    color: #26669c;
+}
+#header{
+    width: 970px;
+    height: 45px;
+    margin-top: 10 px; 
+    background: linear-gradient(#29689d, #5484ab, #29689d)
+}
+#header h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding:7px;
+    margin-left: 10px;
+    font-size: 26px;
+}
+#content{
+    width: 970px;
+    
+    background: linear-gradient(#e3e3e3, #ffffff,#ffffff,#ffffff)
+}
+#navigation{
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 17px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#navigation span{
+    color:#d72828;
+}
+#navigation p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+#navigation p span{
+    color: #316da0;
+}
+.but1{
+    width: 180px;
+    height: 30px;
+    background-color: #3572a5;
+    color: white;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px #888888;
+    margin-left: 10px;
+    margin-bottom: 4px;
+}
+.but2{
+    width: 180px;
+    height: 30px;
+    background-color: #eb9234;
+    color: white;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px #888888;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.horline{
+    width: 200px;
+    height:2px ; 
+    background-color: #b6b6b6;
+    margin-bottom: 20px;
+}
+.navimg {
+    background-image:  url("images/ad_background.png");
+    width: 170px;
+    height:256px ;
+    padding: 15px;
+    box-shadow: 3px 3px 3px #888888;
+}
+.navimg{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navimg img{
+    width: 94px;
+    height: 128px;
+}
+.navimg button{
+    margin-top: 15px;
+    width: 160px;
+    height: 27px;
+    font-size: 14px;
+    color: white;
+    background: linear-gradient(#7cd0de, #7cd0de,#7cd0de);
+    border-radius: 5px;
+
+}
+#maincontent{
+    width: 766px ;
+    height: 636px;
+    display: inline-block;
+    vertical-align: top;
+}
+.homelogo img{
+    margin-top: 10px;
+    width: 20px;
+    height: 21px;
+   display: inline-block;
+}
+.homelogo p{
+    color: #326ea1;
+    display: inline-block;
+    font-size: 18px;
+   vertical-align: top;
+   margin-top: 12px;
+}
+.schedule{
+    width: 250px;
+    height: 68px;
+    display: inline-block;
+    margin-left: 438px;
+    vertical-align: top;
+   
+}
+.schedule img{
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+
+}
+.phnumber p{
+    font-size: 13px;
+    color: black;
+    margin-top: 1px;
+    margin-left: 20px;
+    word-spacing: 3px;
+    display:inline-block;
+    vertical-align: top;
+}
+.phnumber{
+    width: 196px;
+    height: 69px;
+    vertical-align: top;
+    display:inline-block;
+}
+.phnumber h1{
+    color: #00c0dd;
+    vertical-align: top;
+    line-height: 30px;
+    display:inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.context1{
+    width: 752px;
+    height: 566px;
+    display: inline-block;
+    border-top: 2px solid #b8b8b8;
+}
+.context1 h3{
+    color: #29689d;
+    margin-top: 7px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.context1 p{
+    color: black;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.context1 span{
+    color: #0598ae
+}
+span.color{
+    color: black;
+    font-weight:bold;
+}
+.context1 ul{
+    
+    margin-top: 1px;
+    padding-left: 60px;
+}
+.context1 li{
+    margin-top: 5px;
+}
+.context1 img{
+    width: 240px;
+    height: 85px;
+    margin-left: 240px;
+    margin-top: 3px;
+}
+.context1 ol{
+    margin-top: 1px;
+    padding-left: 60px;
+    margin-bottom: 10px;
+}
+.footer{
+    width:709px;
+    height: 100px;
+    margin-left: 20px;
+    border-top: 4px solid #0087dd;
+    border-left: 4px solid #0087dd;
+    border-right: 4px solid #0087dd;
+    padding: 8px;
+}
+.footer img{
+    width: 110px;
+    height: 100px;
+    margin-left: 0px;
+    
+}
+.footext h3{
+    display: inline-block;
+    vertical-align: top;
+    margin:0px;
+
+}
+.footext p{
+    display: inline-block;
+    margin:0px;
+    font-size: 17px;
+}
+.footext{
+    width: 595px;
+    height: 108px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.footext span.italic{
+    font-style: italic;
+    color: black
+}
